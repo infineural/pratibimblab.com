@@ -982,7 +982,7 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Wedding",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -992,10 +992,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Wedding Day",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Animated",
+                "tags": "Wedding",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1005,7 +1005,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Wedding<br>",
-                "active": true
+                "active": false
               }
             ]
           }
